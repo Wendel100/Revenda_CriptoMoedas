@@ -1,0 +1,40 @@
+*{margin: 0;
+padding: 0;    
+}body{
+    background-image:linear-gradient(to left,  #000000, #001f7c,#644fff);
+} .container{
+    text-align: center;
+    font-family: roboto;
+    border: 10px solid#e1cfcf;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    border-radius: 15px;
+    color: aliceblue;
+    }
+    input{
+        margin: 6px;
+        padding: 6px;
+        border: none;
+        font-size: 12px;
+    }button{
+        font-weight: bold;
+        color:#030102;
+        border-radius: 4px;
+        margin-top: 4px;
+
+        font-size: 16px;
+        font-family: sans-serif;
+    }#senha{
+        margin-top: 4px;
+    }
+    img{width: 100% auto;
+    height:200px;}
+    a{
+        font-family:Arial, Helvetica, sans-serif;
+        color: #000000;
+    }.bnt{
+        text-align:center;
+    }

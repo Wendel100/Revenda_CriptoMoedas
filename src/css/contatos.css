@@ -1,0 +1,39 @@
+*{margin: 0;
+    padding: 0;    
+}
+*{margin: 0;
+    padding: 0;}
+    body{
+padding: 20px;
+        margin: 20px;
+        background-image:linear-gradient(to left,  #000000, #001f7c,#644fff);
+     }h1{
+        text-align: center;
+        background-color: rgb(31, 14, 106);
+        color: aliceblue;
+        font-size: 25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h2{padding-top: 30px;
+        font-family: Arial;
+        color: rgb(226, 226, 226);
+        font-size:20px;
+    }
+    address{
+        color:blueviolet;
+    }img{
+        height: 100px;
+
+    }.container{
+        justify-content:center;
+        text-align: center;
+        font-size: 18px;
+        font-family: sans-serif;
+        margin-top: 4px;
+        margin-bottom:4px;
+    }#butt{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        color: blueviolet;
+    }
+    
